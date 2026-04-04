@@ -31,12 +31,37 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salluexez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salluexez&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salluexez&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salluexez&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+### 📜 GitHub Profile Details
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+
+---
+
+### 🏆 Top Repositories
+<p align="center">
+  <a href="https://github.com/salluexez/Alumni-Connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salluexez&repo=Alumni-Connect&theme=tokyonight&show_owner=true" alt="Alumni-Connect" />
+  </a>
+  <a href="https://github.com/salluexez/Task-Flow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salluexez&repo=Task-Flow&theme=tokyonight&show_owner=true" alt="Task-Flow" />
+  </a>
+  <a href="https://github.com/salluexez/Socratic_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salluexez&repo=Socratic_AI&theme=tokyonight&show_owner=true" alt="Socratic_AI" />
+  </a>
 </p>
 
 ---
