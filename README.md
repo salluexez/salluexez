@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohd%20Salauddin&fontSize=80&animation=fadeIn&fontAlignY=35"  alt="header" /></p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salluexez&theme=tokyonight&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=tokyonight" alt="Profile Summary" width="100%" />
 </p>
 
 ### 🚀 About Me
@@ -31,12 +31,12 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salluexez&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salluexez&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salluexez&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=tokyonight" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ### 📈 GitHub Activity Graph
@@ -44,24 +44,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
-### 📜 GitHub Profile Details
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=tokyonight" alt="Profile Details" width="100%" />
-</p>
-
 ---
 
-### 🏆 Top Repositories
+### 🏆 Featured Repositories
 <p align="center">
-  <a href="https://github.com/salluexez/Alumni-Connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salluexez&repo=Alumni-Connect&theme=tokyonight&show_owner=true" alt="Alumni-Connect" />
-  </a>
-  <a href="https://github.com/salluexez/Task-Flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salluexez&repo=Task-Flow&theme=tokyonight&show_owner=true" alt="Task-Flow" />
-  </a>
-  <a href="https://github.com/salluexez/Socratic_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salluexez&repo=Socratic_AI&theme=tokyonight&show_owner=true" alt="Socratic_AI" />
-  </a>
+<a href="https://github.com/salluexez/Alumni-Connect">
+  <img src="https://img.shields.io/badge/Alumni--Connect-Flutter-blue?style=for-the-badge&logo=flutter" />
+</a>
+<a href="https://github.com/salluexez/Task-Flow">
+  <img src="https://img.shields.io/badge/Task--Flow-Dart-blue?style=for-the-badge&logo=dart" />
+</a>
+<a href="https://github.com/salluexez/Socratic_AI">
+  <img src="https://img.shields.io/badge/Socratic_AI-TypeScript-blue?style=for-the-badge&logo=typescript" />
+</a>
 </p>
 
 ---
