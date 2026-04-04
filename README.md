@@ -1,7 +1,10 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohd%20Salauddin&fontSize=80&animation=fadeIn&fontAlignY=35"  alt="header" /></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=tokyonight" alt="Profile Summary" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=tokyonight">
+    <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=default" width="100%">
+  </picture>
 </p>
 
 ### 🚀 About Me
@@ -31,17 +34,29 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salluexez&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=tokyonight" alt="Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salluexez&theme=tokyonight">
+    <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salluexez&theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=tokyonight">
+    <img alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=default">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=tokyonight&hide_border=true" alt="Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=tokyonight&hide_border=true">
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=default&hide_border=true">
+  </picture>
 </p>
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=tokyonight&hide_border=true&area=true">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=default&hide_border=true&area=true" width="100%">
+  </picture>
 </p>
 
 ---
