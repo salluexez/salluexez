@@ -3,7 +3,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=tokyonight">
-    <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salluexez&theme=default" width="100%">
   </picture>
 </p>
 
