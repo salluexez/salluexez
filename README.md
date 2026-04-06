@@ -39,7 +39,6 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=tokyonight">
-    <img alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=default">
   </picture>
 </p>
 
@@ -47,14 +46,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=tokyonight&hide_border=true">
     <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=default&hide_border=true">
-  </picture>
-</p>
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=tokyonight&hide_border=true&area=true">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=salluexez&theme=default&hide_border=true&area=true" width="100%">
   </picture>
 </p>
 
