@@ -29,28 +29,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Analysis
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salluexez&theme=tokyonight">
-    <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salluexez&theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salluexez&theme=tokyonight">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=tokyonight&hide_border=true">
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salluexez&theme=default&hide_border=true">
-  </picture>
-</p>
-
----
-
 ### 🏆 Featured Repositories
 <p align="center">
 <a href="https://github.com/salluexez/Alumni-Connect">
